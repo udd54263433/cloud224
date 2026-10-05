@@ -1,2 +1,9 @@
 # cloud224
-small experiments
+
+Might clean this up later.
+
+## Ideas
+- rename the folder
+- copy the useful bits
+
+_draft_
